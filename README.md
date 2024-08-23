@@ -5,10 +5,11 @@ The repo also contains tree-based models (NGBoost, LightGBM, Random Forest) impl
 
 Please cite the following paper if it helps your research.
 
-Mohammadi, Sevin, Audrey Olivier, and Andrew Smyth. "Probabilistic prediction of trip travel time and its variability using hierarchical Bayesian learning." ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering 9.2 (2023): 04023011.
+    Mohammadi, Sevin, Audrey Olivier, and Andrew Smyth. "Probabilistic prediction of trip travel time and its variability using hierarchical Bayesian learning." ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering 9.2 (2023): 04023011.
 
 Bibtex
 
+```bibtex
 @article{mohammadi2023probabilistic,
   title={Probabilistic prediction of trip travel time and its variability using hierarchical Bayesian learning},
   author={Mohammadi, Sevin and Olivier, Audrey and Smyth, Andrew},
